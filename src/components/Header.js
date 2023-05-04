@@ -85,7 +85,7 @@ const Header = function SearchAppBar() {
               }}
             >
               Projects
-            {/* </StyledLink>
+            </StyledLink>
             <StyledLink
               href="/about"
               onMouseEnter={(e) => {
@@ -107,7 +107,7 @@ const Header = function SearchAppBar() {
               }}
             >
               Books
-            </StyledLink> */}
+            </StyledLink>
           </div>
         </Toolbar>
       </AppBar>

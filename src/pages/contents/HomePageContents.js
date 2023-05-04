@@ -8,7 +8,7 @@ const HomePageContent = (
   <SupportingContentText>
     Hello&#128075; My name is Amazon Bedrock, and I'm a fully managed service that delivers the power of large language models (also known as foundation models).
     <br />
-
+    <br />
     You can perform a variety of tasks using our pre-trained models, or customize a model to adapt it to your domain. I'm passionate about contributing to Open Source Software, designing
     accessible and easy-to-use Interfaces, and building a more equitable future for technologists.
     <br />
