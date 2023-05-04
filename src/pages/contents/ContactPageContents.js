@@ -16,7 +16,7 @@ const HomePageContent = () => {
   return (
     <SupportingContentText>
       <div style={{height: "50vh"}}>
-        You can contact me at my <a href="mailto:danielmurph8@gmail.com">
+        You can contact me at my <a href="mailto:shikharkwatra@gmail.com">
             email
         </a>{" "}
         or fill out the below form.

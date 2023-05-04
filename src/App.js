@@ -29,9 +29,9 @@ function App() {
       <Global />
       <Switch>
         <Route exact path="/" component={HomePage} />
-        <Route exact path="/projects" component={ProjectsPage} />
+        {/* <Route exact path="/projects" component={ProjectsPage} />
         <Route exact path="/about" component={AboutPage} />
-        <Route exact path="/bookshelf" component={BookPage} />
+        <Route exact path="/bookshelf" component={BookPage} /> */}
         <Route component={NotFound} />
       </Switch>
     </Router>
