@@ -19,19 +19,19 @@ const NavBarItems = {
         id: 1,
         value: "github",
         icon: <GitHubIcon/>,
-        href: "https://github.com/danmurphy1217"
+        href: "https://github.com/skwatra1992"
     },
     LinkedIn: {
         id: 2,
         value: "linkedin",
         icon: <LinkedInIcon/>,
-        href: "https://www.linkedin.com/in/dmurphy1217/"
+        href: "https://www.linkedin.com/in/shikharkwatra/"
     },
     Email: {
         id: 3,
         value: "email",
         icon: <AlternateEmailIcon/>,
-        href: "mailto:danielmurph8@gmail.com"
+        href: "mailto:shikharkwatra@gmail.com"
     }
 }
 
